@@ -1,0 +1,3 @@
+usr/include/rptadvtone/rptadvtone.h
+usr/lib/*/librptadvtone.so
+usr/lib/*/pkgconfig/rptadvtone.pc
